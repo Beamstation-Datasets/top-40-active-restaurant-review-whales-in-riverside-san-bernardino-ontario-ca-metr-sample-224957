@@ -1,6 +1,6 @@
 # Top 40% Active Restaurant Review Whales in Riverside-San Bernardino-Ontario, CA Metro Area, US
 
-> Free BeamStation sample export with 102 rows and masked direct-contact fields.
+> Free BeamStation sample export with 80 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `224957` |
 | Location | Riverside-San Bernardino-Ontario, CA |
 | Category | Restaurants |
-| Full dataset size | 1,024 records |
-| Free sample size | 102 records (9.96%) |
-| Last export | 2026-04-07T15:22:35.742718+00:00 |
+| Full dataset size | 805 records |
+| Free sample size | 80 records (9.94%) |
+| Last export | 2026-04-14T21:46:06.388276+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-riverside-san-bernardino-ontario-ca-metr-sample-224957/releases/download/sample-latest/beamstation_224957_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
