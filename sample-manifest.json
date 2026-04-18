@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e2fe6d88-b827-4c35-99ee-e20d3f9f3bd8",
+  "export_job_id": "5632d260-e89e-45a2-a9dc-e7b39e76358d",
   "id_short": 224957,
-  "published_at": "2026-04-11T07:10:05Z",
+  "published_at": "2026-04-18T07:37:51Z",
   "repo_name": "top-40-active-restaurant-review-whales-in-riverside-san-bernardino-ontario-ca-metr-sample-224957",
   "sample_asset_name": "beamstation_224957_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/224957/beamstation_224957_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
-  "sample_records": 102,
-  "sample_sha256": "a2f5662ec95f9f3bcb080402e7eab15ec71b4c10758704a892299231f29b6232",
-  "sample_size_bytes": 425312,
-  "total_records": 1024
+  "sample_records": 80,
+  "sample_sha256": "1ba9798d95a181dc1638651850de9a8a06b16b4facb60f0b69c8c1c2b1a87754",
+  "sample_size_bytes": 330448,
+  "total_records": 805
 }
